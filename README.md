@@ -1,2 +1,2 @@
 # CircleWars
-a very simple java game
+one of the first games i developed in java
